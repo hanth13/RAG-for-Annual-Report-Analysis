@@ -1,0 +1,12 @@
+﻿Query Type,Query,Difficulty
+Summarisation task,Describe the core business of AAR Corp in 2016,Easy
+Summarisation task,List the primary business segments of ABBOTT LABORATORIES,Easy
+Specific section retrieval,Explain the concept of free cash flow,Easy
+Specific section retrieval,Explain what is adjusted EBITDA?,Easy
+Summarisation and analysis task,What are the main financial highlights of ABBOTT LABORATORIES in 2018,Medium
+Summarisation and analysis task,What is the net sales trend of AAR Corp from 2013 to 2018,Medium
+Summarisation and analysis task,List all the companies that had a growth in revenue from 2017 to 2018,Medium
+Specific section retrieval,What was the strategic focus of ABBOTT LABORATORIES in 2019?,Medium
+Specific section retrieval,What were the major risks faced by AAR Corp in 2017?,Medium
+Comparative analysis,Compare the financial performance of ABBOTT Laboratories and ACME United Corp for the year 2015,Medium
+Idea Generation Task,"Based on your historical data, which company should I invest in healthcare to gain the highest expected earnings per share within 1 year?",Hard
